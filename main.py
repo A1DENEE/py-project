@@ -1,4 +1,4 @@
-N = int int(input())
+N = int(input())
 
 for k in range(N):
-    print(k)
+    print(k+1)
